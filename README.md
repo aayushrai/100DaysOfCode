@@ -6,7 +6,7 @@
 - [Client Server Architecture](https://youtu.be/Dg1U-jwVUrg)
     - Client
     - Server
-    - 1,2,3,N tiers Architecture [More details]((https://www.guru99.com/n-tier-architecture-system-concepts-tips.html))
+    - 1,2,3,N tiers Architecture [More details](https://www.guru99.com/n-tier-architecture-system-concepts-tips.html)
     - Types of Clients
     
 
